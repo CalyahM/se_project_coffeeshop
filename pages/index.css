@@ -14,14 +14,12 @@
   padding: 30px 80px 40px;
   min-height: 720px;
   max-height: 800px;
-}
-
-.header__background {
   background-image: url("../images/background_header.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -114,9 +112,6 @@
   flex-direction: column;
   background-color: #0a2750;
   padding: 100px 80px 215px;
-}
-
-.recipes__background {
   background-image: url("../images/background_recipes.svg");
   background-repeat: no-repeat;
   background-position: center;

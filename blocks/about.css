@@ -10,7 +10,7 @@
 
   .about {
     background-color: #0A2850;
-    padding: 100px 80px;
+    padding: 100px 80px 173px;
     color: #ffffff;
     overflow: hidden;
     position: relative;
@@ -65,7 +65,7 @@
     left: -129px;
   }
   
-  .about__circle_animation_blurred{
+  .about__animation_blurred{
     background-color: #2f80ed;
     width: 426px;
     height: 426px;
